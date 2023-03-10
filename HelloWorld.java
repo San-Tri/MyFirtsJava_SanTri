@@ -1,5 +1,7 @@
-<h1>
-    <body stylen="color:red"
-    hello world SENATI
-    SanTri
-</h1>
+public class App {
+    public static void main(String[] args) throws Exeption {
+System.out.println("HOLA MUNDO");
+System.out.println("soy SanTri");        
+    }
+
+}
